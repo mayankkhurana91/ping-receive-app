@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T02:48:33Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="endText" approved="yes">
+				<source>Features may vary depending on your website and permissions</source>
+				<target state="translated">Ezaugarriak zure webgunearen eta baimenen arabera aldatu daitezke</target>
+			</trans-unit>
+			<trans-unit id="introtext" approved="yes">
+				<source>Web Content Management System</source>
+				<target state="translated">Web Edukia Kudeatzeko Sistema</target>
+			</trans-unit>
+			<trans-unit id="introtext2" approved="yes">
+				<source>This is a brief description of the available modules.</source>
+				<target state="translated">Hau da eskuragarri dauden moduluen azalpen txiki bat</target>
+			</trans-unit>
+			<trans-unit id="userInfo" approved="yes">
+				<source>You're logged in as user:</source>
+				<target state="translated">&lt;font size=1&gt;Izen honekin hasi duzu saioa: &lt;strong&gt;%s&lt;/strong&gt; (%s)&lt;br&gt;&lt;/font&gt;</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

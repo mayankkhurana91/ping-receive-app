@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="address.description"/>
+			<label index="company.description"/>
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="disable.description"/>
+			<label index="_disable.seeAlso"/>
+			<label index="endtime.description"/>
+			<label index="_endtime.seeAlso"/>
+			<label index="endtime.syntax"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="image.description"/>
+			<label index="lastlogin.description"/>
+			<label index="lockToDomain.description"/>
+			<label index="lockToDomain.details"/>
+			<label index="_lockToDomain.seeAlso"/>
+			<label index="lockToDomain.syntax"/>
+			<label index="name.description"/>
+			<label index="password.description"/>
+			<label index="password.syntax"/>
+			<label index="_.seeAlso"/>
+			<label index="starttime.description"/>
+			<label index="_starttime.seeAlso"/>
+			<label index="starttime.syntax"/>
+			<label index="title.description"/>
+			<label index="TSconfig.description"/>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax"/>
+			<label index="usergroup.description"/>
+			<label index="usergroup.details"/>
+			<label index="username.description"/>
+			<label index="_username.seeAlso"/>
+			<label index="username.syntax"/>
+			<label index="www.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T02:48:32Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="close">
+				<source>Close</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="description">
+				<source>The TYPO3 Inline User Manual is composed from the available help in this TYPO3 Installation (Context Sensitive Help). Here you will find a general description of the TYPO3 Core modules, installation specific Backend Modules and Database Tables that are available based on your login credentials.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="details">
+				<source>Details</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="fullDescription">
+				<source>See full description of table</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="fullDescription_module">
+				<source>See full description of module</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="full_manual">
+				<source>Full Manual (in one page)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="full_manual_chapters">
+				<source>Manual Chapters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="goBack">
+				<source>Go back</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="goToToc">
+				<source>&lt;&lt; go to Manual Index</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="introduction">
+				<source>Introduction</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="manual_title">
+				<source>TYPO3 Inline User Manual</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="seeAlso">
+				<source>See also</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="syntax">
+				<source>Syntax</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="title">
+				<source>TYPO3 Inline Help</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="TOC">
+				<source>Table Of Contents</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="TOC_core">
+				<source>TYPO3 Core Features</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="TOC_extensions">
+				<source>Extensions</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="TOC_glossary">
+				<source>Glossary</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="TOC_modules">
+				<source>Backend Modules</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="TOC_other">
+				<source>Other</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="TOC_tables">
+				<source>Database Tables</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="to_top">
+				<source>To top</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

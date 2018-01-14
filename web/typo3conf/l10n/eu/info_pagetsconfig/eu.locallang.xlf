@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T01:57:07Z" product-name="info_pagetsconfig">
+		<header/>
+		<body>
+			<trans-unit id="editThisColumn">
+				<source>Edit the field '%s' for all listed pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="editTSconfig">
+				<source>Edit TSconfig for this page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="editTSconfig_all">
+				<source>Edit TSconfig for all shown pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="editTSconfig_default">
+				<source>Default Configuration from TYPO3_CONF_VARS</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mod_pagetsconfig">
+				<source>Page TSconfig</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sort_alphabetic">
+				<source>Sort alphabetically</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_configFields">
+				<source>View TSconfig fields content</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_0">
+				<source>All</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1">
+				<source>Module key ('mod') with overruling user settings</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1a">
+				<source>Module: Web&gt;Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1b">
+				<source>Module: Web&gt;View</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1c">
+				<source>Module: Web&gt;Modules</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1d">
+				<source>Module: Web&gt;List</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1e">
+				<source>Module: Web&gt;Info</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1f">
+				<source>Module: Web&gt;Func</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1g">
+				<source>Module: Web&gt;Template</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_title">
+				<source>Page TSconfig</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="documentation.actions"/>
+			<label index="documentation.actions.download"/>
+			<label index="documentation_manager"/>
+			<label index="documentation.shortcut"/>
+			<label index="documentation.title"/>
+			<label index="documentation.type"/>
+			<label index="downloadDocumentation"/>
+			<label index="downloadFailed"/>
+			<label index="downloadFailedDetails"/>
+			<label index="downloadFailedNoArchive"/>
+			<label index="downloadSucceeded"/>
+			<label index="searchTemplate.submitButton"/>
+			<label index="showDocumentation"/>
+			<label index="tx_documentation_domain_model_document"/>
+			<label index="tx_documentation_domain_model_document.extension_key"/>
+			<label index="tx_documentation_domain_model_documentformat"/>
+			<label index="tx_documentation_domain_model_documentformat.format"/>
+			<label index="tx_documentation_domain_model_documentformat.format.title"/>
+			<label index="tx_documentation_domain_model_documentformat.path"/>
+			<label index="tx_documentation_domain_model_document.package_key"/>
+			<label index="tx_documentation_domain_model_document.title"/>
+			<label index="tx_documentation_domain_model_documenttranslation"/>
+			<label index="tx_documentation_domain_model_documenttranslation.actions"/>
+			<label index="tx_documentation_domain_model_documenttranslation.description"/>
+			<label index="tx_documentation_domain_model_documenttranslation.language"/>
+			<label index="tx_documentation_domain_model_document.translations"/>
+			<label index="tx_documentation_domain_model_documenttranslation.title"/>
+			<label index="tx_documentation_domain_model_document.version"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

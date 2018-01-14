@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="all"/>
+			<label index="allpages"/>
+			<label index="justthispage"/>
+			<label index="last24hours"/>
+			<label index="last30days"/>
+			<label index="noresults"/>
+			<label index="title"/>
+			<label index="title2"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="eIcon.bodytext"/>
+			<label index="eIcon.bullets"/>
+			<label index="eIcon.caption"/>
+			<label index="eIcon.caption_position"/>
+			<label index="eIcon.filelist"/>
+			<label index="eIcon.form"/>
+			<label index="eIcon.header"/>
+			<label index="eIcon.html"/>
+			<label index="eIcon.images"/>
+			<label index="eIcon.login"/>
+			<label index="eIcon.menuSitemap"/>
+			<label index="eIcon.multimedia"/>
+			<label index="eIcon.page"/>
+			<label index="eIcon.plugin"/>
+			<label index="eIcon.recordList"/>
+			<label index="eIcon.search"/>
+			<label index="eIcon.subheader"/>
+			<label index="eIcon.table"/>
+			<label index="label.toTop"/>
+			<label index="login.login"/>
+			<label index="login.logout"/>
+			<label index="login.password"/>
+			<label index="login.username"/>
+			<label index="menu.bypassNavigation"/>
+			<label index="search.emptySearch"/>
+			<label index="search.headersKeywords"/>
+			<label index="search.pageContent"/>
+			<label index="search.resultRange"/>
+			<label index="search.searchButton"/>
+			<label index="search.searchIn"/>
+			<label index="search.searchResultNext"/>
+			<label index="search.searchResultPrev"/>
+			<label index="search.searchWord"/>
+			<label index="uploads.icon"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

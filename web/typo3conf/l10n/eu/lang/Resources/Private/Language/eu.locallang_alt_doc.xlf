@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T02:48:36Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="buttons.confirm.close_without_save.no">
+				<source>No, I will continue editing</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.close_without_save.yes">
+				<source>Yes, discard my changes</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.delete_elements.no">
+				<source>Cancel</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.delete_elements.yes">
+				<source>Yes, delete these elements</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.delete_file.no">
+				<source>Cancel</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.delete_file.yes">
+				<source>Yes, delete this file</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.delete_folder.yes">
+				<source>Yes, delete this folder</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.delete_record.no">
+				<source>Cancel</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="buttons.confirm.delete_record.yes">
+				<source>Yes, delete this record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="deleteItem" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Ezabatu</target>
+			</trans-unit>
+			<trans-unit id="deleteWarning" approved="yes">
+				<source>Are you sure you want to delete this record?</source>
+				<target state="translated">Ziur erregistro hau ezabatu nahi duzula?</target>
+			</trans-unit>
+			<trans-unit id="editWholeRecord" approved="yes">
+				<source>Edit whole record</source>
+				<target state="translated">Editatu erregistro osoa</target>
+			</trans-unit>
+			<trans-unit id="label.confirm.close_without_save.content">
+				<source>You have currently unsaved changes. Are you sure that you want to discard all changes?</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.confirm.close_without_save.title">
+				<source>Do you want to quit without saving?</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.confirm.delete_record.content" approved="yes">
+				<source>Are you sure you want to delete this record?</source>
+				<target state="translated">Ziur erregistro hau ezabatu nahi duzula?</target>
+			</trans-unit>
+			<trans-unit id="label.confirm.delete_record.title">
+				<source>Delete this record?</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="noDocuments" approved="yes">
+				<source>No open documents</source>
+				<target state="translated">Ez dago dokumentu irekirik</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_listmodule" approved="yes">
+				<source>the Web&gt;List module</source>
+				<target state="translated">Web&gt;Zerrenda modulua</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_msg" approved="yes">
+				<source>There are no open documents available to edit.</source>
+				<target state="translated">Ez dago dokumentu irekirik editatzeko</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_msg2" approved="yes">
+				<source>You can go to %s to find the page or the record you wish to edit.</source>
+				<target state="translated">%s-ra joan zaitezke editatu nahi duzun orria edo erregistroa editatzeko</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_msg3" approved="yes">
+				<source>You can select one of your most recently edited records from this list:</source>
+				<target state="translated">Zerrenda honetatik editatutako azken erregistroetako bat aukeratu dezakezu:</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_OR" approved="yes">
+				<source>or</source>
+				<target state="translated">edo</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_pagemodule" approved="yes">
+				<source>the Web&gt;Page module</source>
+				<target state="translated">Web&gt;Orria modulua</target>
+			</trans-unit>
+			<trans-unit id="openDocs" approved="yes">
+				<source>OPEN DOCUMENTS</source>
+				<target state="translated">DOKUMENTU IREKIAK</target>
+			</trans-unit>
+			<trans-unit id="recordHistory" approved="yes">
+				<source>View record change history</source>
+				<target state="translated">Ikusi erregistroaren aldaketa historia</target>
+			</trans-unit>
+			<trans-unit id="undoLastChange" approved="yes">
+				<source>Undo/Redo last change (%s ago)</source>
+				<target state="translated">Desegin/Berregin azken aldaketa (orain dela %s)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

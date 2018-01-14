@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T02:48:32Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="LGL.address" approved="yes">
+				<source>Address:</source>
+				<target state="translated">Helbidea:</target>
+			</trans-unit>
+			<trans-unit id="LGL.allLanguages">
+				<source>[All]</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.any_login" approved="yes">
+				<source>Show at any login</source>
+				<target state="translated">Bistaratu edozein saio hasita</target>
+			</trans-unit>
+			<trans-unit id="LGL.author" approved="yes">
+				<source>Author:</source>
+				<target state="translated">Egilea:</target>
+			</trans-unit>
+			<trans-unit id="LGL.baseStorage">
+				<source>Storage:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.caption" approved="yes">
+				<source>Caption:</source>
+				<target state="translated">Epigrafea:</target>
+			</trans-unit>
+			<trans-unit id="LGL.category" approved="yes">
+				<source>Category:</source>
+				<target state="translated">Kategoria:</target>
+			</trans-unit>
+			<trans-unit id="LGL.city" approved="yes">
+				<source>City:</source>
+				<target state="translated">Hiria:</target>
+			</trans-unit>
+			<trans-unit id="LGL.code" approved="yes">
+				<source>CODE:</source>
+				<target state="translated">KODEA:</target>
+			</trans-unit>
+			<trans-unit id="LGL.company" approved="yes">
+				<source>Company:</source>
+				<target state="translated">Enpresa:</target>
+			</trans-unit>
+			<trans-unit id="LGL.country" approved="yes">
+				<source>Country:</source>
+				<target state="translated">Herrialdea:</target>
+			</trans-unit>
+			<trans-unit id="LGL.creationDate">
+				<source>Created At:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.creationUserId">
+				<source>Created By:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.default_value" approved="yes">
+				<source>Default</source>
+				<target state="translated">Lehenetsia</target>
+			</trans-unit>
+			<trans-unit id="LGL.description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Azalpena:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disable" approved="yes">
+				<source>Disable:</source>
+				<target state="translated">Desgaitu:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disableRTE" approved="yes">
+				<source>Disable Rich Text Editor:</source>
+				<target state="translated">Desgaitu Testu Aberastu Editorea:</target>
+			</trans-unit>
+			<trans-unit id="LGL.email" approved="yes">
+				<source>Email:</source>
+				<target state="translated">ePosta:</target>
+			</trans-unit>
+			<trans-unit id="LGL.endtime" approved="yes">
+				<source>Stop:</source>
+				<target state="translated">Gelditu:</target>
+			</trans-unit>
+			<trans-unit id="LGL.error">
+				<source>Error!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.external" approved="yes">
+				<source>External URL</source>
+				<target state="translated">Kanpoko URL-a</target>
+			</trans-unit>
+			<trans-unit id="LGL.fax" approved="yes">
+				<source>Fax:</source>
+				<target state="translated">Faxa:</target>
+			</trans-unit>
+			<trans-unit id="LGL.fe_group" approved="yes">
+				<source>Access:</source>
+				<target state="translated">Sartu:</target>
+			</trans-unit>
+			<trans-unit id="LGL.first_name">
+				<source>First name:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.folder">
+				<source>Folder:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.height">
+				<source>Height</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.hidden" approved="yes">
+				<source>Hide:</source>
+				<target state="translated">Ezkutatu:</target>
+			</trans-unit>
+			<trans-unit id="LGL.hide_at_login" approved="yes">
+				<source>Hide at login</source>
+				<target state="translated">Saioa hastean ezkutatu</target>
+			</trans-unit>
+			<trans-unit id="LGL.image" approved="yes">
+				<source>Image:</source>
+				<target state="translated">Irudia:</target>
+			</trans-unit>
+			<trans-unit id="LGL.images" approved="yes">
+				<source>Images:</source>
+				<target state="translated">Irudiak:</target>
+			</trans-unit>
+			<trans-unit id="LGL.keywords" approved="yes">
+				<source>Keywords (,):</source>
+				<target state="translated">Hitz gakoak (,):</target>
+			</trans-unit>
+			<trans-unit id="LGL.l18n_parent">
+				<source>Transl.Orig:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.language" approved="yes">
+				<source>Language:</source>
+				<target state="translated">Hizkuntza</target>
+			</trans-unit>
+			<trans-unit id="LGL.lastlogin">
+				<source>Last login:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.last_name">
+				<source>Last name:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.layout" approved="yes">
+				<source>Layout:</source>
+				<target state="translated">Diseinua:</target>
+			</trans-unit>
+			<trans-unit id="LGL.links" approved="yes">
+				<source>Links</source>
+				<target state="translated">Loturak</target>
+			</trans-unit>
+			<trans-unit id="LGL.middle_name">
+				<source>Middle name:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.name" approved="yes">
+				<source>Name:</source>
+				<target state="translated">Izena:</target>
+			</trans-unit>
+			<trans-unit id="LGL.normal" approved="yes">
+				<source>Normal</source>
+				<target state="translated">Normala</target>
+			</trans-unit>
+			<trans-unit id="LGL.note" approved="yes">
+				<source>Note:</source>
+				<target state="translated">Oharra:</target>
+			</trans-unit>
+			<trans-unit id="LGL.parameters" approved="yes">
+				<source>Parameters:</source>
+				<target state="translated">Parametroak:</target>
+			</trans-unit>
+			<trans-unit id="LGL.phone" approved="yes">
+				<source>Phone:</source>
+				<target state="translated">Telefonoa:</target>
+			</trans-unit>
+			<trans-unit id="LGL.prependAtCopy" approved="yes">
+				<source>(copy %s)</source>
+				<target state="translated">(Kopiat %s)</target>
+			</trans-unit>
+			<trans-unit id="LGL.recursive" approved="yes">
+				<source>Recursive:</source>
+				<target state="translated">Errepikaria</target>
+			</trans-unit>
+			<trans-unit id="LGL.shortcut_page" approved="yes">
+				<source>Shortcut to page:</source>
+				<target state="translated">Orrira lasterbidea:</target>
+			</trans-unit>
+			<trans-unit id="LGL.startingpoint" approved="yes">
+				<source>Startingpoint:</source>
+				<target state="translated">Hasiera puntua:</target>
+			</trans-unit>
+			<trans-unit id="LGL.starttime" approved="yes">
+				<source>Start:</source>
+				<target state="translated">Hasi:</target>
+			</trans-unit>
+			<trans-unit id="LGL.subheader" approved="yes">
+				<source>Subheader:</source>
+				<target state="translated">Azpigoiburukoa:</target>
+			</trans-unit>
+			<trans-unit id="LGL.text" approved="yes">
+				<source>Text:</source>
+				<target state="translated">Testua:</target>
+			</trans-unit>
+			<trans-unit id="LGL.timestamp">
+				<source>Last Modified:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.title" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Izenburua:</target>
+			</trans-unit>
+			<trans-unit id="LGL.title_person" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Izenburua:</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="LGL.type" approved="yes">
+				<source>Type:</source>
+				<target state="translated">Mota:</target>
+			</trans-unit>
+			<trans-unit id="LGL.usergroups" approved="yes">
+				<source>__Usergroups:__</source>
+				<target state="translated">__Erabiltzaile Taldeak:__</target>
+			</trans-unit>
+			<trans-unit id="LGL.versionLabel">
+				<source>Versioning Label:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.width">
+				<source>Width</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.www" approved="yes">
+				<source>www:</source>
+				<target state="translated">www:</target>
+			</trans-unit>
+			<trans-unit id="LGL.zip" approved="yes">
+				<source>Zipcode:</source>
+				<target state="translated">Posta Kodea:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

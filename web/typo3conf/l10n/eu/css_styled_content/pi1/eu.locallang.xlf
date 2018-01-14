@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T00:52:20Z" product-name="css_styled_content">
+		<header/>
+		<body>
+			<trans-unit id="eIcon.bodytext">
+				<source>Edit bodytext</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.bullets">
+				<source>Edit bullet list</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.caption">
+				<source>Edit image caption</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.caption_position">
+				<source>Edit image caption alignment</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.filelist">
+				<source>Edit filelist</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.form">
+				<source>Edit email form</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.header">
+				<source>Edit header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.html">
+				<source>Edit pure HTML content</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.images">
+				<source>Edit images</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.login">
+				<source>Edit login element</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.menuSitemap">
+				<source>Edit menu / sitemap</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.multimedia">
+				<source>Edit multimedia element</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.page">
+				<source>Page:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.plugin">
+				<source>Change/configure plugin</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.recordList">
+				<source>Edit recordlist</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.search">
+				<source>Edit search element</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.subheader">
+				<source>Edit subheader</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="eIcon.table">
+				<source>Edit table</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.toTop">
+				<source>To top</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="login.login">
+				<source>Login</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="login.logout">
+				<source>Logout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="login.password">
+				<source>Password:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="login.username">
+				<source>Username:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu.bypassNavigation">
+				<source>Skip navigation block</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.emptySearch">
+				<source>Sorry, your search was empty!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.headersKeywords">
+				<source>Headers and keywords</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.pageContent">
+				<source>Page content</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.resultRange">
+				<source>Searchresult: ###RANGELOW###-###RANGEHIGH### of ###TOTAL###</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.searchButton">
+				<source>Search now!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.searchIn">
+				<source>Search in:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.searchResultNext">
+				<source>Next</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.searchResultPrev">
+				<source>Prev</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search.searchWord">
+				<source>Searchword:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="uploads.icon">
+				<source>File link icon for %s</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

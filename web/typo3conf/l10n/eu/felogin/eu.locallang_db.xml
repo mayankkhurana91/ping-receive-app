@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="felogin_forgotHash"/>
+			<label index="felogin_redirectPid"/>
+			<label index="tt_content.CType_pi1"/>
+			<label index="tt_content.pi_flexform.error_header"/>
+			<label index="tt_content.pi_flexform.error_message"/>
+			<label index="tt_content.pi_flexform.field_manualOrder"/>
+			<label index="tt_content.pi_flexform.field_orderDetails"/>
+			<label index="tt_content.pi_flexform.field_orderList"/>
+			<label index="tt_content.pi_flexform.forgot_header"/>
+			<label index="tt_content.pi_flexform.forgot_message"/>
+			<label index="tt_content.pi_flexform.general_header"/>
+			<label index="tt_content.pi_flexform.general_message"/>
+			<label index="tt_content.pi_flexform.groupSelection"/>
+			<label index="tt_content.pi_flexform.groupSelection_noGroup"/>
+			<label index="tt_content.pi_flexform.groupSelectmode"/>
+			<label index="tt_content.pi_flexform.groupSelectmode_DontShowSelected"/>
+			<label index="tt_content.pi_flexform.groupSelectmode_FromTS"/>
+			<label index="tt_content.pi_flexform.groupSelectmode_showAll"/>
+			<label index="tt_content.pi_flexform.groupSelectmode_showSelected"/>
+			<label index="tt_content.pi_flexform.logout_header"/>
+			<label index="tt_content.pi_flexform.logout_message"/>
+			<label index="tt_content.pi_flexform.redirectDisable"/>
+			<label index="tt_content.pi_flexform.redirectFirstMethod"/>
+			<label index="tt_content.pi_flexform.redirect_header"/>
+			<label index="tt_content.pi_flexform.redirect_message"/>
+			<label index="tt_content.pi_flexform.redirectMode"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.0"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.1"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.2"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.3"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.4"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.5"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.6"/>
+			<label index="tt_content.pi_flexform.redirectMode.I.7"/>
+			<label index="tt_content.pi_flexform.redirectPageLogin"/>
+			<label index="tt_content.pi_flexform.redirectPageLoginError"/>
+			<label index="tt_content.pi_flexform.redirectPageLogout"/>
+			<label index="tt_content.pi_flexform.sheet_general"/>
+			<label index="tt_content.pi_flexform.sheet_messages"/>
+			<label index="tt_content.pi_flexform.sheet_redirect"/>
+			<label index="tt_content.pi_flexform.show_forgot_password"/>
+			<label index="tt_content.pi_flexform.show_logoutFormAfterLogin"/>
+			<label index="tt_content.pi_flexform.show_permalogin"/>
+			<label index="tt_content.pi_flexform.status_header"/>
+			<label index="tt_content.pi_flexform.status_message"/>
+			<label index="tt_content.pi_flexform.success_header"/>
+			<label index="tt_content.pi_flexform.success_message"/>
+			<label index="tt_content.pi_flexform.template_file"/>
+			<label index="tt_content.pi_flexform.user_storage"/>
+			<label index="tt_content.pi_flexform.welcome_header"/>
+			<label index="tt_content.pi_flexform.welcome_message"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

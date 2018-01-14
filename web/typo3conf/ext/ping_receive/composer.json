@@ -1,0 +1,19 @@
+{
+    "name": "testing/ping-receive",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mayank Khurana",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Testing\\PingReceive\\": "Classes"
+        }
+    }
+}

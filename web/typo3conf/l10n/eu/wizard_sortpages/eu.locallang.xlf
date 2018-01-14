@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T05:21:19Z" product-name="wizard_sortpages">
+		<header/>
+		<body>
+			<trans-unit id="no_subpages">
+				<source>Please select a page with subpages.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder">
+				<source>Sort these pages by</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_msg1">
+				<source>You're about to change the order of the above pages. Are you sure you want to continue?</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_REVERSE">
+				<source>Reverse current order</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_subtitle">
+				<source>Subtitle</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_tChange">
+				<source>Change-time</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_tCreate">
+				<source>Create-time</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_title">
+				<source>Page title</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_currentPageOrder">
+				<source>Current page order</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_sort">
+				<source>Sort pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_W">
+				<source>W!</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

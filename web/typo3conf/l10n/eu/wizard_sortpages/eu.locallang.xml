@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="no_subpages"/>
+			<label index="wiz_changeOrder"/>
+			<label index="wiz_changeOrder_msg1"/>
+			<label index="wiz_changeOrder_REVERSE"/>
+			<label index="wiz_changeOrder_subtitle"/>
+			<label index="wiz_changeOrder_tChange"/>
+			<label index="wiz_changeOrder_tCreate"/>
+			<label index="wiz_changeOrder_title"/>
+			<label index="wiz_currentPageOrder"/>
+			<label index="wiz_sort"/>
+			<label index="wiz_W"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

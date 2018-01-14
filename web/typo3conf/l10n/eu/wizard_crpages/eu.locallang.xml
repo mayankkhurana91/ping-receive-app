@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="wiz_crMany"/>
+			<label index="wiz_newPages"/>
+			<label index="wiz_newPages_addMoreLines"/>
+			<label index="wiz_newPages_create"/>
+			<label index="wiz_newPages_currentMenu"/>
+			<label index="wiz_newPages_errorMsg1"/>
+			<label index="wiz_newPages_hidePages"/>
+			<label index="wiz_newPages_hidePagesInMenus"/>
+			<label index="wiz_newPages_lCreate"/>
+			<label index="wiz_newPages_lCreate_msg1"/>
+			<label index="wiz_newPages_listEnd"/>
+			<label index="wiz_newPages_lReset"/>
+			<label index="wiz_newPages_noCreate"/>
+			<label index="wiz_newPages_page"/>
+			<label index="wiz_W"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

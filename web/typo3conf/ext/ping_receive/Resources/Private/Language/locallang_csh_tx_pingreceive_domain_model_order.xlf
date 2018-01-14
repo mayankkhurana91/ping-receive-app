@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-14T12:59:42Z" product-name="ping_receive">
+		<header/>
+		<body>
+			<trans-unit id="id.description">
+				<source>id</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="address.description">
+				<source>address</source>
+			</trans-unit>
+			<trans-unit id="contact.description">
+				<source>contact</source>
+			</trans-unit>
+			<trans-unit id="customer.description">
+				<source>customer</source>
+			</trans-unit>
+			<trans-unit id="dishes.description">
+				<source>dishes</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

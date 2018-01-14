@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T02:48:32Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="bigControlPanel">
+				<source>Extended view</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="c_file" approved="yes">
+				<source>File Name</source>
+				<target state="translated">Fitxategi izena</target>
+			</trans-unit>
+			<trans-unit id="c_fileext" approved="yes">
+				<source>Type</source>
+				<target state="translated">Mota</target>
+			</trans-unit>
+			<trans-unit id="c_filepath">
+				<source>File Path</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="clipBoard" approved="yes">
+				<source>Show clipboard</source>
+				<target state="translated">Erakutsi arbela</target>
+			</trans-unit>
+			<trans-unit id="clip_deleteMarked" approved="yes">
+				<source>Delete marked</source>
+				<target state="translated">Ezabatu markatutakoak</target>
+			</trans-unit>
+			<trans-unit id="clip_deleteMarkedWarning" approved="yes">
+				<source>Are you sure you want to delete all marked files from this folder?</source>
+				<target state="translated">Ziur markatutako fitxategi guztiak ezabatu nahi dituzula karpeta honetatik?</target>
+			</trans-unit>
+			<trans-unit id="clip_markRecords" approved="yes">
+				<source>Mark All/Mark none</source>
+				<target state="translated">Markatu/desmarkatu denak</target>
+			</trans-unit>
+			<trans-unit id="clip_paste" approved="yes">
+				<source>Paste in clipboard content</source>
+				<target state="translated">Itsatsi arbeleko edukia</target>
+			</trans-unit>
+			<trans-unit id="clip_pasteInto" approved="yes">
+				<source>Paste into: Clipboard content is inserted into this folder</source>
+				<target state="translated">Itsasi hemen: Arbelaren edukia karpeta honetan sartzen da</target>
+			</trans-unit>
+			<trans-unit id="clip_selectMarked" approved="yes">
+				<source>Transfer the selection of files to clipboard</source>
+				<target state="translated">Pasatu fitxategi aukera arbelera</target>
+			</trans-unit>
+			<trans-unit id="createMetadataForLanguage">
+				<source>Create metadata of this file for %s</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="c__REF_">
+				<source>Ref</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="c_rw" approved="yes">
+				<source>RW</source>
+				<target state="translated">RW</target>
+			</trans-unit>
+			<trans-unit id="c_size" approved="yes">
+				<source>Size</source>
+				<target state="translated">Tamaina</target>
+			</trans-unit>
+			<trans-unit id="c_tstamp" approved="yes">
+				<source>Last Modified</source>
+				<target state="translated">Data</target>
+			</trans-unit>
+			<trans-unit id="displayThumbs" approved="yes">
+				<source>Display thumbnails</source>
+				<target state="translated">Erakutsi koadro txikiak</target>
+			</trans-unit>
+			<trans-unit id="editMetadataForLanguage">
+				<source>Edit metadata of this file for %s</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="files" approved="yes">
+				<source>files</source>
+				<target state="translated">fitxategiak</target>
+			</trans-unit>
+			<trans-unit id="folderNotFoundMessage">
+				<source>The folder "%s" cannot be accessed. Trying to use parent folder(s).</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="folderNotFoundTitle">
+				<source>Folder not found.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_basePath">
+				<source>Base path:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_basePath_placeholder">
+				<source>Add storage path here. For example: myPath/folder/</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_caseSensitive">
+				<source>Uses case sensitive identifiers</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_pathType">
+				<source>Path type:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_pathType_absolute">
+				<source>absolute</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_pathType_relative">
+				<source>relative</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="missingFolderPermissionsMessage">
+				<source>You have no access to the folder "%s".</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="missingFolderPermissionsTitle">
+				<source>Missing folder permissions</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>This is the file administration system in TYPO3. It allows you to access the file mounts of your login. Through this module you can upload, copy, move an delete files on the server.</source>
+				<target state="translated">Hau Typo3-ko fitxategi administrazio sistema da. Zure saoi hasieran montatutako fitxategiak aukeratzea baimentzen dizu. Modulu honen bidez fitxategiak igo, kopiatu, mugitu eta ezabatu ditzazkezu zerbitzarian.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Listing of files in the directory</source>
+				<target state="translated">Direktorioko fitxategien zerrenda</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Filelist</source>
+				<target state="translated">Fitxategi Zerrenda</target>
+			</trans-unit>
+			<trans-unit id="paramError">
+				<source>Parameter Error:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="read">
+				<source>R</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="recycler">
+				<source>Recycler</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="role_folder_recycler">
+				<source>Recycler</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="role_folder_temporary">
+				<source>Temporary files</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="storageNotBrowsableMessage">
+				<source>You are trying to access a folder in a storage that is not browsable.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="storageNotBrowsableTitle">
+				<source>Access denied.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="targetNoDir">
+				<source>Target was not a directory!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="temp">
+				<source>Temporary files</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="translateMetadata">
+				<source>Translate metadata</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="write">
+				<source>W</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="editThisColumn"/>
+			<label index="editTSconfig"/>
+			<label index="editTSconfig_all"/>
+			<label index="editTSconfig_default"/>
+			<label index="mod_pagetsconfig"/>
+			<label index="sort_alphabetic"/>
+			<label index="tsconf_configFields"/>
+			<label index="tsconf_parts_0"/>
+			<label index="tsconf_parts_1"/>
+			<label index="tsconf_parts_1a"/>
+			<label index="tsconf_parts_1b"/>
+			<label index="tsconf_parts_1c"/>
+			<label index="tsconf_parts_1d"/>
+			<label index="tsconf_parts_1e"/>
+			<label index="tsconf_parts_1f"/>
+			<label index="tsconf_parts_1g"/>
+			<label index="tsconf_title"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

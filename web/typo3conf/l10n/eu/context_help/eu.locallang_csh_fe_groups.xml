@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index=".description"/>
+			<label index="description.description"/>
+			<label index="description.details"/>
+			<label index=".details"/>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="_hidden.seeAlso"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="lockToDomain.description"/>
+			<label index="lockToDomain.details"/>
+			<label index="_lockToDomain.seeAlso"/>
+			<label index="_.seeAlso"/>
+			<label index="subgroup.description"/>
+			<label index="subgroup.details"/>
+			<label index="title.description"/>
+			<label index="title.details"/>
+			<label index="TSconfig.description"/>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

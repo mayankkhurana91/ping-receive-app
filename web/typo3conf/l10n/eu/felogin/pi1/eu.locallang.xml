@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="change_password"/>
+			<label index="cookie_warning"/>
+			<label index="ll_change_password_done_message"/>
+			<label index="ll_change_password_header"/>
+			<label index="ll_change_password_message"/>
+			<label index="ll_change_password_nolinkprefix_message"/>
+			<label index="ll_change_password_notequal_message"/>
+			<label index="ll_change_password_notvalid_message"/>
+			<label index="ll_change_password_tooshort_message"/>
+			<label index="ll_enter_your_data"/>
+			<label index="ll_error_header"/>
+			<label index="ll_error_message"/>
+			<label index="ll_forgot_email_nopassword"/>
+			<label index="ll_forgot_email_password"/>
+			<label index="ll_forgot_header"/>
+			<label index="ll_forgot_header_backToLogin"/>
+			<label index="ll_forgot_message"/>
+			<label index="ll_forgot_message_emailSent"/>
+			<label index="ll_forgot_reset_message"/>
+			<label index="ll_forgot_reset_message_emailSent"/>
+			<label index="ll_forgot_reset_message_error"/>
+			<label index="ll_forgot_validate_reset_password"/>
+			<label index="ll_logout_header"/>
+			<label index="ll_logout_message"/>
+			<label index="ll_status_header"/>
+			<label index="ll_status_message"/>
+			<label index="ll_success_header"/>
+			<label index="ll_success_message"/>
+			<label index="ll_welcome_header"/>
+			<label index="ll_welcome_message"/>
+			<label index="login"/>
+			<label index="logout"/>
+			<label index="newpassword_label1"/>
+			<label index="newpassword_label2"/>
+			<label index="noValidRedirectUrl"/>
+			<label index="password"/>
+			<label index="permalogin"/>
+			<label index="reset_password"/>
+			<label index="send_password"/>
+			<label index="username"/>
+			<label index="xssAttackDetected"/>
+			<label index="your_email"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

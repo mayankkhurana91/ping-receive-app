@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="eu" type="array">
+			<label index="index_config"/>
+			<label index="index_config.alternative_source_pid"/>
+			<label index="index_config.chashcalc"/>
+			<label index="index_config.depth"/>
+			<label index="index_config.depth.I.0"/>
+			<label index="index_config.depth.I.1"/>
+			<label index="index_config.depth.I.2"/>
+			<label index="index_config.depth.I.3"/>
+			<label index="index_config.description"/>
+			<label index="index_config.extensions"/>
+			<label index="index_config.externalUrl"/>
+			<label index="index_config.fields"/>
+			<label index="index_config.filepath"/>
+			<label index="index_config.get_params"/>
+			<label index="index_config.indexcfgs"/>
+			<label index="index_config.parameterCfgs"/>
+			<label index="index_config.recordsbatch"/>
+			<label index="index_config.records_indexonchange"/>
+			<label index="index_config.rootpage"/>
+			<label index="index_config.set_id"/>
+			<label index="index_config.table2index"/>
+			<label index="index_config.timer_frequency"/>
+			<label index="index_config.timer_frequency.I.0"/>
+			<label index="index_config.timer_frequency.I.1"/>
+			<label index="index_config.timer_frequency.I.2"/>
+			<label index="index_config.timer_next_indexing"/>
+			<label index="index_config.timer_offset"/>
+			<label index="index_config.title"/>
+			<label index="index_config.type"/>
+			<label index="index_config.type.I.1"/>
+			<label index="index_config.type.I.2"/>
+			<label index="index_config.type.I.3"/>
+			<label index="index_config.type.I.4"/>
+			<label index="index_config.type.I.5"/>
+			<label index="index_config.url_deny"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

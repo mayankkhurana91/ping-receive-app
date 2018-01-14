@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="eu" datatype="plaintext" original="messages" date="2017-09-07T02:48:32Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="about">
+				<source>About</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="and">
+				<source>and</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="ascending">
+				<source>Ascending</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="back">
+				<source>Back</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="byteSizeUnits">
+				<source> B| KB| MB| GB</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="cancel">
+				<source>Cancel</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="category">
+				<source>Category</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="close">
+				<source>Close</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="delete">
+				<source>Delete</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="descending">
+				<source>Descending</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="details">
+				<source>Details</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="disable">
+				<source>Disable</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="disabled">
+				<source>Disabled</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="down">
+				<source>Down</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="download">
+				<source>Download</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="edit">
+				<source>Edit</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="editField">
+				<source>Edit field</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="editFile">
+				<source>Edit file</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="enable">
+				<source>Enable</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="enabled">
+				<source>Enabled</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="file">
+				<source>File</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="files">
+				<source>Files</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="first">
+				<source>First</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="folder">
+				<source>Folder</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="from">
+				<source>From</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="go">
+				<source>Go</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="goTo">
+				<source>Go to</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="help">
+				<source>Help</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="item">
+				<source>Item</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="items">
+				<source>Items</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="last">
+				<source>Last</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="left">
+				<source>Left</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="login">
+				<source>Login</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="logout">
+				<source>Logout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="more">
+				<source>More</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="move">
+				<source>Move</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="new">
+				<source>New</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="next">
+				<source>Next</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="no">
+				<source>No</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="ok">
+				<source>OK</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="open">
+				<source>Open</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="page">
+				<source>Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages">
+				<source>Pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pleaseConfirm">
+				<source>Please confirm</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="previous">
+				<source>Previous</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="print">
+				<source>Print</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="reload">
+				<source>Reload</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="right">
+				<source>Right</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="save">
+				<source>Save</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="saveAndClose">
+				<source>Save and close</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="saveAndCloseDoc">
+				<source>Save and close document</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="saveAndCreateNewDoc">
+				<source>Save and create new document</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="saveAndViewPage">
+				<source>Save and view page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="search">
+				<source>Search</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="send">
+				<source>Send</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="start">
+				<source>Start</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="stop">
+				<source>Stop</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="submit">
+				<source>Submit</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="to">
+				<source>To</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsRef">
+				<source>TSref reference</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="up">
+				<source>Up</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="upload">
+				<source>Upload</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="user">
+				<source>User</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="users">
+				<source>Users</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="view">
+				<source>View</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="yes">
+				<source>Yes</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
